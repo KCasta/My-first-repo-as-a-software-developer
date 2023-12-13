@@ -1,0 +1,18 @@
+command in vim
+# to register your details
+# register your email address
+git config --global user.email "kelechizobam82@gmail.com"
+
+# register your username
+ git config --global user.name "KCasta"
+
+ # Command to git-push
+ # to add all file
+ git add .
+ 
+ # to commit all file with a commit message
+git commit -m  "learning git commands"
+
+# then git push
+git push
+
